@@ -6,7 +6,7 @@ package customcode;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author 100558257
+ * @author RyzeNGrind
  *
  */
 public class RunTime {

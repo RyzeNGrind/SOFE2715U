@@ -7,7 +7,7 @@ package customcode;
  * @author RyzeNGrind
  *
  */
-public class Driver {
+public class Tester {
 
 	/**
 	 * @param args
